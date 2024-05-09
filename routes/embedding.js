@@ -65,4 +65,4 @@ module.exports = router;
   // }
 
 
-      // res.json(embedding.data)
+  // res.json(embedding.data)
